@@ -17,7 +17,7 @@
 	<div data-role="content">
     <div align="center">
       <img src="pic/key.png" width="60" height="60"> </div>	
-		<form action="http://119.59.125.117/thaitimeemployee/login.php" method="post">
+		<form action="login.php" method="post">
 Username : <input type="text" name="txtUsername">
 Password :<input type="password" name="txtPassword">
 <br />
