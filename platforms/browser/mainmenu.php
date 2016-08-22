@@ -19,9 +19,9 @@
       <img src="pic/menu.png" width="480" height="120"> </div>
        <font size="4"> <ul data-inset="true" data-role="listview" data-theme="d">
 		  <li>
-      <a href="http://112.121.150.67/thaitimeemployee/popuplogin.php" data-rel="dialog" data-transition="pop"><p> <img src="pic/school.png" width="250" height="50"><p></a></li>
-            <li><a href="http://112.121.150.67/thaitimeemployee/popuplogin.php" data-rel="dialog" data-transition="pop"><p> <img src="pic/employee.png" width="250" height="50"><p></a></li>
-			<li><a href="http://112.121.150.67/thaitimeemployee/popuplogin.php" data-rel="dialog" data-transition="pop"><p> <img src="pic/car.png" width="250" height="50"><p></a></li>
+      <a href="popuplogin.php" data-rel="dialog" data-transition="pop"><p> <img src="pic/school.png" width="250" height="50"><p></a></li>
+            <li><a href="popuplogin.php" data-rel="dialog" data-transition="pop"><p> <img src="pic/employee.png" width="250" height="50"><p></a></li>
+			<li><a href="popuplogin.php" data-rel="dialog" data-transition="pop"><p> <img src="pic/car.png" width="250" height="50"><p></a></li>
 		</ul></font>	
         
       
